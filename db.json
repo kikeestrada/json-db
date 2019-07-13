@@ -12,8 +12,6 @@
             "title"           : "title2",
             "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "price"           : "100",
-            "cursoLink"       : "https://www.google.com",
-            "profesor_Image"  : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "profesorName"    : "Jose"
         },
         {
@@ -21,8 +19,6 @@
             "title"           : "title3",
             "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "price"           : "150",
-            "cursoLink"       : "https://www.google.com",
-            "profesor_Image"  : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "profesorName"    : "Mauricio"
         },
         {
@@ -30,9 +26,7 @@
             "title"           : "title4",
             "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "price"           : "200",
-            "cursoLink"       : "https://www.google.com",
-            "profesor_Image"  : "https://scott88lee.github.io/FMX/img/avatar.jpg",
             "profesorName"    : "Alejandro"
-        },
-    ];
+        }
+    ]
 }
