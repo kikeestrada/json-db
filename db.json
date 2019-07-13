@@ -1,5 +1,5 @@
 {
-    "CoursesArray" : [
+    "courses" : [
         {
             "id"              : 1,
             "title"           : "title1",
