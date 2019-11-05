@@ -3,28 +3,28 @@
         {
             "id"              : 1,
             "title"           : "title1",
-            "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img1.jpg",
             "price"           : "50",
             "profesorName"    : "Enrique"
         },
         {
             "id"              : 2,
             "title"           : "title2",
-            "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img2.jpg",
             "price"           : "100",
             "profesorName"    : "Jose"
         },
         {
             "id"              : 3,
             "title"           : "title3",
-            "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img3.jpg",
             "price"           : "150",
             "profesorName"    : "Mauricio"
         },
         {
             "id"              : 4,
             "title"           : "title4",
-            "image"           : "https://scott88lee.github.io/FMX/img/avatar.jpg",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img4.jpg",
             "price"           : "200",
             "profesorName"    : "Alejandro"
         }
