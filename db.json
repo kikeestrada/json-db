@@ -27,6 +27,34 @@
             "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img4.jpg",
             "price"           : "200",
             "profesorName"    : "Alejandro"
+        },
+        {
+            "id"              : 5,
+            "title"           : "title1",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img1.jpg",
+            "price"           : "50",
+            "profesorName"    : "Enrique"
+        },
+        {
+            "id"              : 6,
+            "title"           : "title2",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img2.jpg",
+            "price"           : "100",
+            "profesorName"    : "Jose"
+        },
+        {
+            "id"              : 7,
+            "title"           : "title3",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img3.jpg",
+            "price"           : "150",
+            "profesorName"    : "Mauricio"
+        },
+        {
+            "id"              : 8,
+            "title"           : "title4",
+            "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img4.jpg",
+            "price"           : "200",
+            "profesorName"    : "Alejandro"
         }
     ]
 }
