@@ -2,7 +2,7 @@
     "courses" : [
         {
             "id"              : 1,
-            "title"           : "title1asasasas",
+            "title"           : "title1",
             "image"           : "https://kikeestrada.github.io/myStyleGuide/assets/img/img1.jpg",
             "price"           : "50",
             "profesorName"    : "Enrique"
